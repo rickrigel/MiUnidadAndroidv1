@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483343306174",
+    "project_id": "unidades-habitacionales",
+    "storage_bucket": "unidades-habitacionales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483343306174:android:a3f301a9d6deedcc8c3def",
+        "android_client_info": {
+          "package_name": "com.test.unidadeshabitacionales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUTB2I-uzMdzwJyS_Avr0r1kD8-YU-oec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

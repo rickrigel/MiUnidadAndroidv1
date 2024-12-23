@@ -1,0 +1,25 @@
+<!-- res/navigation/nav_graph.xml -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.test.unidadeshabitacionales.HomeFragment"
+        android:label="Inicio" />
+
+    <fragment
+        android:id="@+id/storeFragment"
+        android:name="com.test.unidadeshabitacionales.StoreFragment"
+        android:label="Tienda" />
+
+    <fragment
+        android:id="@+id/annauncementsFragment"
+        android:name="com.test.unidadeshabitacionales.AnnauncementsFragment"
+        android:label="Encuestas" />
+
+    <fragment
+        android:id="@+id/eventsFragment"
+        android:name="com.test.unidadeshabitacionales.EventsFragment"
+        android:label="Eventos" />
+</navigation>
